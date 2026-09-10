@@ -12,9 +12,9 @@ ShopFusion is a modern e-commerce platform developed as part of my summer intern
 **Live Demo:**  
 👉 [shopfusion-alpha.vercel.app](https://shopfusion-alpha.vercel.app/)
 
-### 📋 Project Documentation
+## 📄 Project Documentation
 
-- 📄 [Summer Internship Report](./summer-internship-report.pdf)
+- 📑 [Summer Internship Report](./summer-internship-report(vikas).pdf)
 - 🏆 [Internship Certificate](./Internship%20certificate.pdf)
 
 ### ✨ Highlights
